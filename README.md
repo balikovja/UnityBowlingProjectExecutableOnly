@@ -15,3 +15,4 @@ Future development will add:
 - More accurate dimensions
 - Challenge Mode (Obstacles like Wii Sports Bowling training mode, with specific pin setups)
 - Local Multiplayer
+- Achievements
